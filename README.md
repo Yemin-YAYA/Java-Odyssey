@@ -1,7 +1,7 @@
 📖 Java Odyssey
 
-Java Odyssey est un petit jeu en console qui permet d’apprendre les bases du langage Java à travers une aventure interactive.
-Le joueur progresse d’île en île et doit résoudre des mini-exercices de programmation pour avancer.
+Java Odyssey est un petit jeu en console crée avec IntelliJ IDEA  qui permet d’apprendre les bases du langage Java à travers une aventure interactive.
+Le joueur progresse d’île en île et doit résoudre des mini-exercices de programmation pour avancer. 
 
 🚀 Fonctionnalités
 
